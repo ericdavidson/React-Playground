@@ -1,0 +1,18 @@
+
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+    height: 5%;
+    width: 100vw;
+
+    border-bottom: 1px solid black;
+
+    /* bring your own prefixes */
+
+    text-align: center;
+}
+
+p {
+  padding: 5px;
+  width: 12%;
+}

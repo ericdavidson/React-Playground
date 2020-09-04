@@ -1,3 +1,7 @@
+* {
+  text-align: center
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.header-image {
+  width: 30%;
 }

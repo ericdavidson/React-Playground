@@ -1,0 +1,17 @@
+.column-names {
+  font-weight: bold;
+}
+
+.header-flexbox-container {
+    display: flex;
+    flex-direction: row;
+    height: 5%;
+    width: 100vw;
+
+    border-top: 2px solid black;
+    border-bottom: 1px solid black;
+
+    /* bring your own prefixes */
+
+    text-align: center;
+}
