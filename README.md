@@ -9,3 +9,5 @@ To run the project:
 > npm start
 
 The documentation/comments represent the initial commit and will be updated as I learn more next week.
+
+<p align="center"><img src="https://github.com/ericdavidson/React-Practice/blob/master/display.png"></p>
